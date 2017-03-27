@@ -1,0 +1,12 @@
+{
+  "parser": "babel-eslint",
+  "extends": "yoctol/base",
+  "env": {
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "strict": 0,
+    "newline-per-chained-call": 0
+  }
+}
